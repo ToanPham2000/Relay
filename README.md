@@ -28,5 +28,11 @@ Xác định dòng:
   ![image](https://github.com/ToanPham2000/Relay/assets/142808050/d66102e6-0366-46e2-b029-de58f18a61f5)
   
 Bảo vệ quá dòng:
+- Sừ dụng hàm cộng tính tổng thời gian tác động của dòng quá tải
 
   ![image](https://github.com/ToanPham2000/Relay/assets/142808050/d9bf5474-b184-42ff-bfde-4c1d708ee641)
+
+Mô phỏng bằng proteus:
+
+![image](https://github.com/ToanPham2000/Relay/assets/142808050/ed913a93-7c4c-4b50-be6e-350208cd0396)
+
