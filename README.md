@@ -24,6 +24,7 @@ Xác định dòng:
   ![image](https://github.com/ToanPham2000/Relay/assets/142808050/d85532b4-dc01-4d9e-b8c0-50e22df08e30)
   
 - Giả sử như có m mẫu giá trị dòng điện i(k) được lấy mẫu từ bộ biến đổi ADC trong một chu kỳ dòng điện T. Khi đó biểu thức (6) có thể biểu thị như sau:
+
   ![image](https://github.com/ToanPham2000/Relay/assets/142808050/d66102e6-0366-46e2-b029-de58f18a61f5)
   
 Bảo vệ quá dòng:
