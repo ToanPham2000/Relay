@@ -5,7 +5,7 @@ Thuật toán xây dựng cho rơ le kỹ thuật số sẽ “copy” được 
   ![image](https://github.com/ToanPham2000/Relay/assets/142808050/8ab284c3-e25b-4df3-8b86-5d54625f75c3)
 - Quá trình ngắt: Khi dòng điện giảm (< Itđ), nhiệt sinh ra nhỏ (I2R) hơn quá trình tỏa nhiệt của môi trường, làm thanh kim loại kép quay trở lại trạng thái bình thường, thanh truyền B dịch chuyển sang trái, thanh truyền D dịch chuyển sang phải, tiếp điểm trở lại trạng thái bình thường.
   ![image](https://github.com/ToanPham2000/Relay/assets/142808050/f5966b58-2728-4b36-bb0e-2d059abf0225)
-- A, B, p, Tr được tra theo bảng đặc tính tác động của relay 
+- A, B, p, Tr được tra theo bảng đặc tính tác động của relay
   ![image](https://github.com/ToanPham2000/Relay/assets/142808050/7c3fd002-0f10-4139-afc5-02fc0e7d83d6)
 Xác định dòng:
 - Vì dòng điện liên tục thay đổi theo thời gian nên ta chia dòng điện thành các đoạn nhỏ và coi như dòng điện không đổi trong khoảng vi phân thời gian đó. Đối với dòng xoay chiều hình sin giá trị trung bình được xác định như sau:
