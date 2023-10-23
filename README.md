@@ -34,5 +34,9 @@ Bảo vệ quá dòng:
 
 Mô phỏng bằng proteus:
 
-![image](https://github.com/ToanPham2000/Relay/assets/142808050/ed913a93-7c4c-4b50-be6e-350208cd0396)
+![image](https://github.com/ToanPham2000/Relay/assets/142808050/3b961ec0-c429-4048-b557-1a68cf9e3a63)
+
+![image](https://github.com/ToanPham2000/Relay/assets/142808050/23df2300-fe9e-4d7b-bec6-13c6641b020a)
+
+![image](https://github.com/ToanPham2000/Relay/assets/142808050/bae60e08-db4a-4ffd-aa76-1d2d306b94a0)
 
