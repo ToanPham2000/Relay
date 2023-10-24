@@ -32,7 +32,7 @@ Bảo vệ quá dòng:
 
   ![image](https://github.com/ToanPham2000/Relay/assets/142808050/d9bf5474-b184-42ff-bfde-4c1d708ee641)
 
-Mô phỏng bằng proteus: sử dụng arduino viết chương trình đo dòng và tính toán thời gian tác động.
+Mô phỏng bằng proteus: sử dụng arduino, acs712 viết chương trình đo dòng và tính toán thời gian tác động.
 
 ![image](https://github.com/ToanPham2000/Relay/assets/142808050/3b961ec0-c429-4048-b557-1a68cf9e3a63)
 
