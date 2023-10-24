@@ -32,11 +32,15 @@ Bảo vệ quá dòng:
 
   ![image](https://github.com/ToanPham2000/Relay/assets/142808050/d9bf5474-b184-42ff-bfde-4c1d708ee641)
 
-Mô phỏng bằng proteus:
+Mô phỏng bằng proteus: sử dụng arduino viết chương trình đo dòng và tính toán thời gian tác động.
 
 ![image](https://github.com/ToanPham2000/Relay/assets/142808050/3b961ec0-c429-4048-b557-1a68cf9e3a63)
 
+Kết quả khi tăng lên dòng quá tải:
+
 ![image](https://github.com/ToanPham2000/Relay/assets/142808050/23df2300-fe9e-4d7b-bec6-13c6641b020a)
+
+Kết quả khi tăng lên ngắn mạch:
 
 ![image](https://github.com/ToanPham2000/Relay/assets/142808050/bae60e08-db4a-4ffd-aa76-1d2d306b94a0)
 
