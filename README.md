@@ -22,16 +22,16 @@ Xác định dòng:
 
   
   Im và T là giá trị cực đại và chu kỳ của dòng điện. Ta suy ra được giá trị hiệu dụng như sau:
-  ![image](https://github.com/ToanPham2000/Relay/assets/142808050/d85532b4-dc01-4d9e-b8c0-50e22df08e30)
+  ![Ihd](https://github.com/ToanPham2000/Relay/assets/142808050/ce921a16-c6cd-416f-aaea-fa59a86f4476)
   
 - Giả sử như có m mẫu giá trị dòng điện i(k) được lấy mẫu từ bộ biến đổi ADC trong một chu kỳ dòng điện T. Khi đó biểu thức (6) có thể biểu thị như sau:
 
-  ![image](https://github.com/ToanPham2000/Relay/assets/142808050/d66102e6-0366-46e2-b029-de58f18a61f5)
+  ![Ihd(theo_m)](https://github.com/ToanPham2000/Relay/assets/142808050/e47c9e03-5e9f-453b-a3f2-599d46d9980b)
   
 Bảo vệ quá dòng:
 - Sừ dụng hàm cộng tính tổng thời gian tác động của dòng quá tải
 
-  ![image](https://github.com/ToanPham2000/Relay/assets/142808050/d9bf5474-b184-42ff-bfde-4c1d708ee641)
+  ![ham_cong_time](https://github.com/ToanPham2000/Relay/assets/142808050/5201370d-c2f6-4779-970e-310c06887926)
 
 Mô phỏng bằng proteus: sử dụng arduino, acs712 viết chương trình đo dòng và tính toán thời gian tác động.
 
