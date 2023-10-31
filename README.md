@@ -13,12 +13,13 @@ Thuật toán xây dựng cho rơ le kỹ thuật số sẽ “copy” được 
 ![image](https://github.com/ToanPham2000/Relay/assets/142808050/1b0a962b-9c41-4380-8c21-19f3d871fc20)
 - A, B, p, Tr được tra theo bảng đặc tính tác động của relay
 
-![image](https://github.com/ToanPham2000/Relay/assets/142808050/7c3fd002-0f10-4139-afc5-02fc0e7d83d6)
+![image](https://github.com/ToanPham2000/Relay/assets/142808050/e5f3b146-0cf8-4244-b4cf-dc88fafbd7e3)
 
 Xác định dòng:
 - Vì dòng điện liên tục thay đổi theo thời gian nên ta chia dòng điện thành các đoạn nhỏ và coi như dòng điện không đổi trong khoảng vi phân thời gian đó. Đối với dòng xoay chiều hình sin giá trị trung bình được xác định như sau:
 
-  ![image](https://github.com/ToanPham2000/Relay/assets/142808050/135912ef-3fe4-43db-965f-9ae9ae342ab4)
+  ![image](https://github.com/ToanPham2000/Relay/assets/142808050/a93ec8ff-fb08-476d-80fa-aa8809c9f385)
+
   
   Im và T là giá trị cực đại và chu kỳ của dòng điện. Ta suy ra được giá trị hiệu dụng như sau:
   ![image](https://github.com/ToanPham2000/Relay/assets/142808050/d85532b4-dc01-4d9e-b8c0-50e22df08e30)
