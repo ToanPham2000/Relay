@@ -6,7 +6,7 @@ Thuật toán xây dựng cho rơ le kỹ thuật số sẽ “copy” được 
 
 - Quá trình tác động: Khi dòng tăng cao (> Ip), nhiệt sinh ra lớn (∆P=I^2 R), làm thanh kim loại kép bị cong, thanh truyền B dịch chuyển sang phải, thanh truyền D dịch chuyển sang trái, tiếp điểm thay đổi trạng thái
   
-![image](https://github.com/ToanPham2000/Relay/assets/142808050/8ab284c3-e25b-4df3-8b86-5d54625f75c3)
+![CT(1)](https://github.com/ToanPham2000/Relay/assets/142808050/5691cf9b-759d-4fb4-908e-788dc0118093)
 
 - Quá trình ngắt: Khi dòng điện giảm (< Itđ), nhiệt sinh ra nhỏ (I2R) hơn quá trình tỏa nhiệt của môi trường, làm thanh kim loại kép quay trở lại trạng thái bình thường, thanh truyền B dịch chuyển sang trái, thanh truyền D dịch chuyển sang phải, tiếp điểm trở lại trạng thái bình thường.
 
