@@ -1,6 +1,6 @@
 Thuật toán xây dựng cho rơ le kỹ thuật số sẽ “copy” được phản ứng của rơ le bảo vệ quá tải theo nguyên lý điện nhiệt
 
-![image](https://github.com/ToanPham2000/Relay/assets/142808050/13b277d3-7792-4c36-b80d-887840c6dec2)
+![image](https://github.com/ToanPham2000/Relay/assets/142808050/0547d2a5-4a1a-48ac-8a38-5ce0a4629424)
 
 Đặc tính bảo vệ quá dòng (dụa theo tiêu chuẩn IEEE C37.112-1996) :
 
