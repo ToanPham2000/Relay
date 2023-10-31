@@ -35,13 +35,13 @@ Bảo vệ quá dòng:
 
 Mô phỏng bằng proteus: sử dụng arduino, acs712 viết chương trình đo dòng và tính toán thời gian tác động.
 
-![image](https://github.com/ToanPham2000/Relay/assets/142808050/3b961ec0-c429-4048-b557-1a68cf9e3a63)
+![relay_bt](https://github.com/ToanPham2000/Relay/assets/142808050/8c38976e-2213-4983-b73c-2308b28e9d27)
 
 Kết quả khi tăng lên dòng quá tải:
 
-![image](https://github.com/ToanPham2000/Relay/assets/142808050/23df2300-fe9e-4d7b-bec6-13c6641b020a)
+![relay_qt](https://github.com/ToanPham2000/Relay/assets/142808050/75f7798b-a26d-485e-9164-391b8d903baa)
 
 Kết quả khi tăng lên ngắn mạch:
 
-![image](https://github.com/ToanPham2000/Relay/assets/142808050/bae60e08-db4a-4ffd-aa76-1d2d306b94a0)
+![relay_nm](https://github.com/ToanPham2000/Relay/assets/142808050/2d459d58-1e44-4d6e-b93a-7f1d8ea857f3)
 
