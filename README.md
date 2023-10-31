@@ -10,7 +10,7 @@ Thuật toán xây dựng cho rơ le kỹ thuật số sẽ “copy” được 
 
 - Quá trình ngắt: Khi dòng điện giảm (< Itđ), nhiệt sinh ra nhỏ (I2R) hơn quá trình tỏa nhiệt của môi trường, làm thanh kim loại kép quay trở lại trạng thái bình thường, thanh truyền B dịch chuyển sang trái, thanh truyền D dịch chuyển sang phải, tiếp điểm trở lại trạng thái bình thường.
 
-![image](https://github.com/ToanPham2000/Relay/assets/142808050/f5966b58-2728-4b36-bb0e-2d059abf0225)
+![image](https://github.com/ToanPham2000/Relay/assets/142808050/1b0a962b-9c41-4380-8c21-19f3d871fc20)
 - A, B, p, Tr được tra theo bảng đặc tính tác động của relay
 
 ![image](https://github.com/ToanPham2000/Relay/assets/142808050/7c3fd002-0f10-4139-afc5-02fc0e7d83d6)
