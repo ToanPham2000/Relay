@@ -44,6 +44,3 @@ Kết quả khi tăng lên ngắn mạch:
 
 ![image](https://github.com/ToanPham2000/Relay/assets/142808050/bae60e08-db4a-4ffd-aa76-1d2d306b94a0)
 
-Video thực hiện với thiết bị trong nhà:
-
-https://youtu.be/NZTBUw7ENzE
