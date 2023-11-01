@@ -45,3 +45,7 @@ Kết quả khi tăng lên ngắn mạch:
 
 ![relay_nm](https://github.com/ToanPham2000/Relay/assets/142808050/2d459d58-1e44-4d6e-b93a-7f1d8ea857f3)
 
+Video thực hiện với tải thực tế:
+
+https://www.youtube.com/watch?v=NZTBUw7ENzE
+
